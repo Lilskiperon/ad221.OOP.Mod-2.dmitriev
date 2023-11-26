@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+git@github.com:Lilskiperon/ad221.OOP.Mod-2.dmitriev.git
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
