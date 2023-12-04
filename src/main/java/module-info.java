@@ -4,6 +4,6 @@ module com.example.demo {
     requires java.logging;
 
 
-    opens Modular_2  to javafx.fxml;
-    exports Modular_2;
+    opens lab11.Game to javafx.fxml;
+    exports lab11.Game;
 }
